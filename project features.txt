@@ -1,0 +1,16 @@
+POST FEATURES
+write/edit/delete reviews
+comment on reviews
+like reviews
+
+USER-RELATED FEATURES
+login (social media login, login via app)
+sign-up
+follow users
+using the @ sign to send an alert
+public profiles
+uploading images
+
+RECOMMENDATION FEATURES
+tag books as read
+add to list of books
