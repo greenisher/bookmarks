@@ -21,5 +21,6 @@ Tagging is currently hidden from users
 Liked and Disliked books function as training data
 Predictive engine produces a list of possibly liked books
 
-COMMIT 1 - added sign-up via the site
-COMMIT 2 - added a readme with details of what the site will do/to serve as a list of what has been done
+* COMMIT 1 - added sign-up via the site
+* COMMIT 2 - added a readme with details of what the site will do/to serve as a list of what has been done
+* COMMIT 3 - added a draft logo, working on CSS``

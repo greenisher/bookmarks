@@ -1,0 +1,55 @@
+body {
+    background-color: #7897D3;
+}
+
+h1 {
+    color: FFE985;
+    margin-left: 30px;
+    font-style: italic;
+    font-family: Sans-serif	;
+    font-size: 72px;
+}
+
+h2 {
+    color: FFE985;
+    margin-left: 30px;
+    font-style: italic;
+    font-family: Sans-serif	;
+    font-size: 50px;
+}
+
+h3 {
+    color: FFE985;
+    margin-left: 30px;
+    font-style: italic;
+    font-family: Sans-serif	;
+    font-size: 24px;
+}
+
+/* unvisited link */
+a:link {
+    color: FFF8D7;
+}
+
+/* visited link */
+a:visited {
+    color: F08D40;
+}
+
+/* mouse over link */
+a:hover {
+    color: 5375B9;
+}
+
+/* selected link */
+a:active {
+    color: ;
+}
+
+div {
+    background-color: #FFFFFF;
+}
+
+p {}
+
+.Post {}
